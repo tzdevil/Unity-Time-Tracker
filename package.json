@@ -1,0 +1,13 @@
+{
+    "name": "com.tzdevil.timetracker",
+    "displayName": "Time Tracker",
+    "version": "0.1.0",
+    "unity": "2022.3",
+    "description": "Time Tracker is a tool that keeps track of the current session and total project time. Programmed by tzdevil.",
+    "author": {
+      "name": "tzdevil",
+      "email": "champtzcsgo@gmail.com",
+      "url": "https://github.com/tzdevil/Time-Tracker"
+    },
+    "type": "tool"
+  }
